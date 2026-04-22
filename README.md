@@ -2,7 +2,7 @@
 
 Public showcase repo for Curie — a piezoelectric essential oil diffuser I designed and shipped between 2019 and 2021.
 
-Live site: **[see the Pages URL]** _(shown in your repo's Settings → Pages after deployment)_
+Live site: **[curie.show →](https://iamdanielkitchen.github.io/diffuser/)**
 
 ## Contents
 
