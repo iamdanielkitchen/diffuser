@@ -1,12 +1,15 @@
-# diffuser
+# Curie
 
-Public showcase repo for Curie — a piezoelectric essential oil diffuser I designed and shipped between 2019 and 2021.
+A piezoelectric essential oil diffuser — three oils, independently dosed,
+app-controlled. I designed it in Shapr3D between 2019 and 2021, ran 23 validated
+prototypes, shipped to paying customers.
 
-Live site: **[curie.show →](https://iamdanielkitchen.github.io/diffuser/)**
+**Live:** [iamdanielkitchen.github.io/diffuser](https://iamdanielkitchen.github.io/diffuser/)
 
-## Contents
+## What's here
 
-Single static HTML page plus six product photos. No build step, no dependencies, no framework.
+Single static HTML page plus six product photos. No build step, no dependencies,
+no framework.
 
 ```
 diffuser/
@@ -21,10 +24,12 @@ diffuser/
 └── README.md
 ```
 
-Served by GitHub Pages on the free tier.
+Served on GitHub Pages.
 
-## What's *not* in this repo
+## What's not here
 
-Source design files, firmware, PCB schematics, patent drafts, raw photography, and internal notes live in a separate private archive. This public repo is a presentation layer only.
+Source design files, firmware, PCB schematics, patent drafts, raw photography,
+and internal notes live in a private archive. This repo is the presentation layer
+only.
 
 — Daniel Kitchen
