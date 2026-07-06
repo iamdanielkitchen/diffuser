@@ -1,9 +1,11 @@
 # Curie
 
-A piezoelectric essential-oil diffuser built to eliminate every inconvenience of a
-normal one — full technology integration as the principle, not an added feature. I
-designed it in Shapr3D between 2019 and 2021, ran 23 validated prototypes, and shipped
-to paying customers.
+A pure demonstration of what an essential-oil diffuser becomes when full
+integration is the non-negotiable principle — not a feature bolted on
+afterward. Three oils run at once, each on its own schedule and intensity,
+with no compromise between them, because the hardware, firmware, and app were
+never separate things to reconcile. I designed it in Shapr3D, took it from
+spec to a shipped, fully integrated product, end to end.
 
 **Live:** [iamdanielkitchen.github.io/diffuser](https://iamdanielkitchen.github.io/diffuser/)
 
