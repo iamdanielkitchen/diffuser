@@ -1,8 +1,9 @@
 # Curie
 
-A piezoelectric essential oil diffuser — three oils, independently dosed,
-app-controlled. I designed it in Shapr3D between 2019 and 2021, ran 23 validated
-prototypes, shipped to paying customers.
+A piezoelectric essential-oil diffuser built to eliminate every inconvenience of a
+normal one — full technology integration as the principle, not an added feature. I
+designed it in Shapr3D between 2019 and 2021, ran 23 validated prototypes, and shipped
+to paying customers.
 
 **Live:** [iamdanielkitchen.github.io/diffuser](https://iamdanielkitchen.github.io/diffuser/)
 
